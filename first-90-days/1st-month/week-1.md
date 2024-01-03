@@ -157,3 +157,7 @@ Did I mention to you the [goals](https://x.com/\_aanant/status/17411838757439859
 And, when I talk about goals, I know that it'll take time to build each one of these habits, because every goal in here is a [keystone habit](https://jamesclear.com/keystone-habits) and even if I achieve one of them, it can transform my life in a positive manner. When I talk about building these habits and achieving certain goals, I try to abide by this quote:
 
 > <mark style="color:green;">People overestimate what they can do in one year and underestimate what they can do in 10 years.</mark> \~ Bill Gates
+
+Here is my photo at the end of the day, with all the stars you can see:
+
+<figure><img src="../../.gitbook/assets/WhatsApp Image 2024-01-03 at 6.37.2.jpeg" alt="" width="240"><figcaption></figcaption></figure>
