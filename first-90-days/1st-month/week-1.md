@@ -161,3 +161,37 @@ And, when I talk about goals, I know that it'll take time to build each one of t
 Here is my photo at the end of the day, with all the stars you can see:
 
 <figure><img src="../../.gitbook/assets/WhatsApp Image 2024-01-03 at 6.37.2.jpeg" alt="" width="240"><figcaption></figcaption></figure>
+
+## Day 4
+
+### What happened?
+
+I arrived at work and had a meeting with every member of my team's hierarchy, from my incredibly talented team leader to the company's serene CIO. I had one-on-one conversations with each person and learned so much about my position and the business.
+
+My manager, team lead and I had breakfast together. They were friendly and offered me their breakfast.
+
+I was forced to use my personal laptop since my official desktop and laptop were still being configured.
+
+Then, my team lead and a few other coworkers, and I had lunch. After that, I completed my assignment, had a one-on-one discussion with the manager of my manager, and wrapped up my workstation.
+
+### Observations
+
+My manager and his managers were very welcoming, as was every member of the team, including my colleagues, who were all very cool and welcoming. One thing I found really nice is that no one is micromanaged by a superior. Although this was my first day, I believe this is how the team functions.
+
+An additional thing I learned is that the team does not follow the scrum methodology. Therefore, my prior assumptions were incorrect. The group uses SVN as well. I gave many lectures to many people on Git and GitHub, but now I'll have to learn SVN, but learning something new is what I like to do!
+
+### Tasks
+
+* [x] Setup Flutter ecosystem
+
+### Learnings
+
+I learned today not to assume anything; if you just clear up any doubts you have right away, everyone will be satisfied.
+
+Secondly, do not wait to demonstrate your progress because you believe it will have a greater impact if you do so. Demonstrate your progress as you make it, since those who are monitoring your work form opinions over time and do not wait to think things through until you show them your work.
+
+Last but not least, have conversations with individuals in various departments and teams. This will allow you to gain perspectives that you would not be able to obtain by confining yourself to a single location.
+
+### Misc.
+
+I tried to refine my weekday routine.
