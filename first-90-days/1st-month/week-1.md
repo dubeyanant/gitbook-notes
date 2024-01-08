@@ -172,7 +172,7 @@ My manager, team lead and I had breakfast together. They were friendly and offer
 
 I was forced to use my personal laptop since my official desktop and laptop were still being configured.
 
-Then, my team lead and a few other coworkers, and I had lunch. After that, I completed my assignment, had a one-on-one discussion with the manager of my manager, and wrapped up my workstation.
+Then, my team lead and a few other coworkers and I had lunch. After that, I completed my assignment, had a one-on-one discussion with the manager of my manager, and wrapped up my workstation.
 
 ### Observations
 
@@ -188,10 +188,36 @@ An additional thing I learned is that the team does not follow the scrum methodo
 
 I learned today not to assume anything; if you just clear up any doubts you have right away, everyone will be satisfied.
 
-Secondly, do not wait to demonstrate your progress because you believe it will have a greater impact if you do so. Demonstrate your progress as you make it, since those who are monitoring your work form opinions over time and do not wait to think things through until you show them your work.
+Secondly, do not wait to demonstrate your progress because you believe it will have a greater impact if you do so. Demonstrate your progress as you make it, since those who are monitoring your work form opinions over time. Do not wait to think things through until you show them your work.
 
 Last but not least, have conversations with individuals in various departments and teams. This will allow you to gain perspectives that you would not be able to obtain by confining yourself to a single location.
 
 ### Misc.
 
 I tried to refine my weekday routine.
+
+## Day 5
+
+### What happened?
+
+This morning, something unusual happened—I got stuck at the gate because I didn't have a valid ID to enter the premises. I called my team lead, and in no time, he was with me. Within a few minutes, I obtained the security pass. So, it was a unique experience.
+
+In the office, I initially worked on a learning project to grasp how Flutter functions, and afterward, I started the assignment given to me. By the end of the day, I showed the completed assignment, received feedback, and then headed back to my room.
+
+### Observations
+
+My seniors talk to me very nicely, and I don't feel like they are very different from me in knowledge because they don't show it; they show modesty, but I know they are very experienced people because I got to know how many years they have been working on the technology.
+
+Another thing I noticed is that my lead fosters growth and learning; without directly telling me how to solve something, he encourages me to find answers.
+
+### Tasks
+
+* [x] Build one front-end login screen
+
+### Learnings
+
+The simplicity of talking with anyone at any level is magical, especially if you are superior to others. The magic happens when people don't perceive that you are on a different level, even if they know you are at a different level.
+
+### Misc.
+
+I am feeling less tired today.
