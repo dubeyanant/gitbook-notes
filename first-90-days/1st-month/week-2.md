@@ -37,3 +37,28 @@ Getting a mentor or a teacher is a cheat code to becoming successful in life.
 ### Misc.
 
 I am trying to budget my expenses.
+
+## Day 2
+
+### What happened?
+
+I went to the office, got my desktop, but couldn't set it up because I didn't have appropriate internet access rights. After that, I did my other learning tasks and came back.
+
+### Observations
+
+I saw the application testing team today; their environment was a little bit different than ours, and they were talking in different terms. But seeing them made me realize that there are many different small parts in a car, but every part is required to run it smoothly.
+
+### Tasks
+
+* [ ] Desktop setup.
+* [x] More technical learning.
+
+### Learnings
+
+Keep it simple. The more convoluted it gets, the more brain power it takes. Keep it simple as long as you can.
+
+When you are allowed the freedom to do something on your own, there are a lot of ways to go about doing it. However, you can only make the best decision if you have specific objectives in mind; otherwise, you will let your thoughts roam and become distracted.
+
+### Misc.
+
+I'm hoping for better days.
