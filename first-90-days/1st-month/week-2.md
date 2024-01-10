@@ -62,3 +62,25 @@ When you are allowed the freedom to do something on your own, there are a lot of
 ### Misc.
 
 I'm hoping for better days.
+
+## Day 3
+
+### What happened?
+
+I completed one more project.
+
+### Observations
+
+My TL recently gave me some questions that weren't directly related to my current tasks. However, I realized that experience has a way of imparting valuable lessons. It teaches you not only how to challenge others but also how to consistently place them in mildly challenging situations, fostering their ability to overcome obstacles and facilitate personal growth.
+
+### Tasks
+
+* [x] Complete an ongoing section.
+
+### Learnings
+
+Dumber people make more money than smart people because they continue to do things that smart people consider risky because they understand the gravity of the situation, whereas dumb people do not. So they keep doing it until they are successful.
+
+### Misc.
+
+Today, I moved into a new flat, which is identical to the previous one but one floor lower. I live with one more roommate. I spent the majority of my time cleaning and organizing things in this flat.
