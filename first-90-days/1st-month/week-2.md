@@ -84,3 +84,25 @@ Dumber people make more money than smart people because they continue to do thin
 ### Misc.
 
 Today, I moved into a new flat, which is identical to the previous one but one floor lower. I live with one more roommate. I spent the majority of my time cleaning and organizing things in this flat.
+
+## Day 4
+
+### What happened?
+
+I went to the office and did my learning. It's my learning phase going on.
+
+### Observations
+
+My team didn't come, so I was sitting alone in the office. And I noticed no one was asking me how's the work or anything else like this. Then I realized that everyone is alone in their world, and its high time that we approach people, say a nice hello, and maybe even genuinely compliment them.
+
+### Tasks
+
+* [x] Continue learning more technical stuff
+
+### Learnings
+
+Remember that sometimes the simple act of focusing on your breath and touching grass can have awesome benefits.
+
+### Misc.
+
+I visited the central park, and it was nice. The whole park was big, with so many different areas to explore. It was nice sitting there for 15 minutes.
