@@ -93,7 +93,7 @@ I went to the office and did my learning. It's my learning phase going on.
 
 ### Observations
 
-My team didn't come, so I was sitting alone in the office. And I noticed no one was asking me how's the work or anything else like this. Then I realized that everyone is alone in their world, and its high time that we approach people, say a nice hello, and maybe even genuinely compliment them.
+My team didn't come, so I was sitting alone in the office. And I noticed no one was asking me how the work was or anything else like this. Then I realized that everyone is alone in their world, and its high time that we approach people, say a nice hello, and maybe even genuinely compliment them.
 
 ### Tasks
 
@@ -106,3 +106,26 @@ Remember that sometimes the simple act of focusing on your breath and touching g
 ### Misc.
 
 I visited the central park, and it was nice. The whole park was big, with so many different areas to explore. It was nice sitting there for 15 minutes.
+
+## Day 5
+
+### What happened?
+
+I went to the office, worked on my tasks, learned more about the culture, finished up, and returned to my room.
+
+### Observations
+
+I noticed a colleague giving a demo to the project head, who then gave a demo to other business people. Everyone in the team's hierarchy was present. It was intense. I noticed that the demo presentation was a success. It feels good to see your work presented in front of important people, and it feels even better to know that it will be used by so many people. This is the thrill I strive for.
+
+### Tasks
+
+* [ ] Setup desktop
+* [x] Continue learning Flutter
+
+### Learnings
+
+When the stakes are high, you stay calm. It appears counterintuitive, but it works.
+
+### Misc.
+
+I am thinking of writing some fiction over the weekend. Also, I wrote a poem the day before yesterday, if you want to [read](https://www.instagram.com/p/C14xpKzy\_\_W/).
